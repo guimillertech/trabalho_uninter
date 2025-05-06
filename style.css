@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(163, 201, 234, 0.61);}
+
+h1{
+    color: rgb(17, 61, 46);
+    text-align: center;}
+p{
+    font-size: 15px;
+    text-align: justify;
+    margin: 20px;
+    width: 80%;}
+
+ul{
+    line-height: 2.0;}
+
+img{
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;}
+
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);}
+
+th,td{
+    border: 1px;
+    padding: 12px;
+    text-align: center;}
+
+a{
+    color:blueviolet;
+    text-decoration: none;
+    transition: color 0.3s;}
+
+a:hover{
+    color: rgb(3, 73, 76);
+}
